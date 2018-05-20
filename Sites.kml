@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>MacDive</name>
+    <Folder>    <name>All Sites</name>      <Placemark>
+        <name>C-53</name>
+        <description></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chankanaab Pinacle</name>
+        <description></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chankanaab Shallows</name>
+        <description></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chankanab</name>
+        <description></description>
+        <Point>
+          <coordinates>-86.817398,20.439234</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cozumel</name>
+        <description></description>
+        <Point>
+          <coordinates>-86.812709,20.443110</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dalila</name>
+        <description></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>House Reef</name>
+        <description><![CDATA[Hotel Cozumel & Resort]]></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Francesca</name>
+        <description></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Las Palmas</name>
+        <description></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Los Palmos</name>
+        <description></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palancar Caves</name>
+        <description></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palancar Gardens</name>
+        <description></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palancar Horseshoe</name>
+        <description></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paradise Reef</name>
+        <description></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paso del Cedral</name>
+        <description></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punta Tunich Wall</name>
+        <description></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tormentos</name>
+        <description></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Villa Blanca</name>
+        <description></description>
+        <Point>
+          <coordinates>-86.816258,20.439485</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pennyroyal</name>
+        <description></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Falling Rock Park</name>
+        <description></description>
+        <Point>
+          <coordinates>-85.407928,38.428923</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Breakwater</name>
+        <description></description>
+        <Point>
+          <coordinates>-121.915984,36.625670</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lover’s Point</name>
+        <description></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monterey State Beach</name>
+        <description></description>
+        <Point>
+          <coordinates>-121.889042,36.601804</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Seas at Epcot</name>
+        <description></description>
+        <Point>
+          <coordinates>-81.550785,28.375571</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Black Bart</name>
+        <description><![CDATA[Sunk: 7/16/1993
+Depth: 79ft
+Relief: 25ft
+Length: 180ft
+
+Oil rig supply ship
+]]></description>
+        <Point>
+          <coordinates>-85.824067,30.060367</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chippewa</name>
+        <description><![CDATA[Sunk: 2/8/1990
+Depth: 102ft
+Relief: 28ft
+Length: 204ft
+
+Tugboat]]></description>
+        <Point>
+          <coordinates>-85.807733,29.961267</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DuPont Span #3</name>
+        <description><![CDATA[Sunk: 12/19/2008
+Tons: 375
+Depth: 90ft
+Relief: 35ft
+Length: 180ft
+Width: 25ft
+
+LARGE INTACT BRIDGE SPAN 180'L X 25'W X 35'H-FUNDED BY FDOT , 3 OF 3 SPANS]]></description>
+        <Point>
+          <coordinates>-85.841650,29.975300</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hathaway Span #12 Midway</name>
+        <description><![CDATA[Sunk: 5/9/1988
+Tons: 360
+Depth: 72ft
+Relief: 27ft
+
+http://blogs.ifas.ufl.edu/bayco/reef_118/]]></description>
+        <Point>
+          <coordinates>-85.731550,30.046833</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hathaway Span #14 Warsaw</name>
+        <description><![CDATA[Bridge Span
+
+BA0076
+
+Weight: 360 tons
+Depth: 75 feet
+Relief: 20 feet
+
+Latitude: 30° 4.291' N
+Longitude: 85° 48.876' W
+
+http://myfwc.com/media/131585/reefs.pdf]]></description>
+        <Point>
+          <coordinates>-85.814572,30.071678</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hovercraft-Llcat</name>
+        <description><![CDATA[Hovercraft Aluminum 100'
+
+BA0118
+
+Depth: 74 feet
+Relief: 10 feet
+
+Longitude: 30° 4.249' N
+Latitude: 85° 48.725' W
+
+http://myfwc.com/media/131585/reefs.pdf]]></description>
+        <Point>
+          <coordinates>-85.812083,30.070705</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Red Sea Tugboat</name>
+        <description><![CDATA[Red Sea Tugboat
+
+BA0230
+
+125' Steel Hulled Ocean Tugboat sits upright
+
+Depth: 74 feet
+Relief: 36 feet
+
+Latitude: 30° 0.958' N (3000.958)
+Longitude: 85° 42.003' W (8542.003)
+
+http://myfwc.com/media/131585/reefs.pdf]]></description>
+        <Point>
+          <coordinates>-85.700050,30.015967</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>USS Grierson (Liberty Ship)</name>
+        <description></description>
+        <Point>
+          <coordinates>-85.712267,29.984583</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>USS Strength</name>
+        <description></description>
+        <Point>
+          <coordinates>-85.708533,30.032405</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Devil‘s Den</name>
+        <description></description>
+        <Point>
+          <coordinates>-82.476296,29.407698</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
