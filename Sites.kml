@@ -10,6 +10,20 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Chankanaab</name>
+        <description></description>
+        <Point>
+          <coordinates>-86.817398,20.439234</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chankanaab Balognes</name>
+        <description></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Chankanaab Pinacle</name>
         <description></description>
         <Point>
@@ -24,10 +38,10 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Chankanab</name>
+        <name>Columbia Deep</name>
         <description></description>
         <Point>
-          <coordinates>-86.817398,20.439234</coordinates>
+          <coordinates>0.000000,0.000000</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -38,7 +52,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Dalila</name>
+        <name>Delilah Reef</name>
         <description></description>
         <Point>
           <coordinates>0.000000,0.000000</coordinates>
@@ -76,7 +90,7 @@
         <name>Palancar Gardens</name>
         <description></description>
         <Point>
-          <coordinates>0.000000,0.000000</coordinates>
+          <coordinates>-87.026657,20.335696</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -108,6 +122,13 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Santa Rosa Wall</name>
+        <description></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Tormentos</name>
         <description></description>
         <Point>
@@ -119,6 +140,62 @@
         <description></description>
         <Point>
           <coordinates>-86.816258,20.439485</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yucabo</name>
+        <description></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bird Rock</name>
+        <description></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Crane Point</name>
+        <description></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eagles Reef</name>
+        <description></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eel Cove</name>
+        <description></description>
+        <Point>
+          <coordinates>-118.513434,33.457149</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hen Rock</name>
+        <description></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sail Boat Cove</name>
+        <description></description>
+        <Point>
+          <coordinates>-118.423550,33.388602</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ship Rock</name>
+        <description></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -280,6 +357,40 @@ http://myfwc.com/media/131585/reefs.pdf]]></description>
         <description></description>
         <Point>
           <coordinates>-85.708533,30.032405</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam’s Cave</name>
+        <description></description>
+        <Point>
+          <coordinates>-119.774900,34.018389</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Peacock (Spirit Of America)</name>
+        <description><![CDATA[The Peacock is somewhat of a mystery wreck. Some believe she was the Spirit of America, but there is no definitive evidence either way to prove or disprove this claim. It is known she’s a WWII era minesweeper with a composite wood hull and steel frame. If she is the Peacock, she started her career at the end of the war and ended it as a training ship before being decommissioned in 1955.
+
+In the early 60’s she was used for towing. By the late 60’s she was sold again and her history becomes very hazy. A number of stories abound but one of the most interesting is that she was a floating bordello serving Long Beach/San Pedro. Early divers found a fair amount of red cloth and mirrors which gave “credence” to the theory.
+
+The wreck lies upright in about 65 FSW of water with her stern pointing towards shore. Since she’s in an anchorage, the sandy dive site is quite well protected. All the structures have collapsed but there is relief off the bottom with numerous ledges and holes.
+
+http://www.xtremescuba.com/wrecks.html]]></description>
+        <Point>
+          <coordinates>-119.774900,34.018389</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Potato Pinnacle</name>
+        <description></description>
+        <Point>
+          <coordinates>-119.774900,34.018389</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cowells Beach</name>
+        <description></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
         </Point>
       </Placemark>
       <Placemark>
