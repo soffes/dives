@@ -220,6 +220,22 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Dali's Wall</name>
+        <description><![CDATA[Also known as Stillwater Cove
+
+https://cadivingnews.com/dive-spot/dive-spot-monterey-stillwater-cove-dalis-wall/]]></description>
+        <Point>
+          <coordinates>-121.946900,36.561050</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eric's Pinnacle</name>
+        <description><![CDATA[https://cadivingnews.com/dive-spot/monterey-bays-erics-pinnacle/]]></description>
+        <Point>
+          <coordinates>-121.918350,36.634067</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Lover’s Point</name>
         <description></description>
         <Point>
