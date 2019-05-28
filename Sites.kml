@@ -3,6 +3,64 @@
   <Document>
     <name>MacDive</name>
     <Folder>    <name>All Sites</name>      <Placemark>
+        <name>Ann's Attic</name>
+        <description><![CDATA[https://www.wannadive.net/spot/Central_America/Cayman/Little_Cayman/Ann_s_Attic/index.html?wdaction=lib.WDPageSpot.showGPShistory]]></description>
+        <Point>
+          <coordinates>-80.078333,19.684667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Donna's Delight</name>
+        <description><![CDATA[https://www.idivecayman.com/donnas-delight]]></description>
+        <Point>
+          <coordinates>-80.080350,19.686930</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dot's Hot Spot</name>
+        <description><![CDATA[https://www.idivecayman.com/dots-hot-spot]]></description>
+        <Point>
+          <coordinates>-80.095320,19.679210</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Great Wall East</name>
+        <description></description>
+        <Point>
+          <coordinates>-80.083530,19.686710</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mike’s Mount</name>
+        <description></description>
+        <Point>
+          <coordinates>-80.068970,19.692780</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nancy's Cup of Tea</name>
+        <description><![CDATA[aka Magic Roundabout
+
+https://www.idivecayman.com/magic-roundabout]]></description>
+        <Point>
+          <coordinates>-80.069460,19.693370</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ringers Wall</name>
+        <description></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Windsock</name>
+        <description></description>
+        <Point>
+          <coordinates>-80.091860,19.657140</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>C-53</name>
         <description></description>
         <Point>
