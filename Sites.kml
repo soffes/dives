@@ -2,7 +2,9 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>MacDive</name>
-    <Folder>    <name>All Sites</name>      <Placemark>
+    <Folder>
+    <name>All Sites</name>
+      <Placemark>
         <name>M/V Captain Keith Tibbetts</name>
         <description><![CDATA[Approx depth:
 
@@ -119,24 +121,31 @@ https://www.idivecayman.com/magic-roundabout]]></description>
         </Point>
       </Placemark>
       <Placemark>
-        <name>C-53</name>
+        <name>C-53 (Felipe Xicotencatl)</name>
+        <description><![CDATA[https://www.wannadive.net/spot/Central_America/Mexico/Yucatan/Cozumel_Isalnd/C-53_Xicotencatl/index.html]]></description>
+        <Point>
+          <coordinates>-87.000533,20.445200</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casa Blanca</name>
         <description></description>
         <Point>
           <coordinates>0.000000,0.000000</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Chankanaab</name>
+        <name>Cedar Pass</name>
         <description></description>
         <Point>
-          <coordinates>-86.817398,20.439234</coordinates>
+          <coordinates>0.000000,0.000000</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Chankanaab Balognes</name>
-        <description></description>
+        <description><![CDATA[https://www.wannadive.net/spot/Central_America/Mexico/Yucatan/Cozumel_Isalnd/Chankanaab_Bolones/index.html]]></description>
         <Point>
-          <coordinates>0.000000,0.000000</coordinates>
+          <coordinates>-87.011467,20.436267</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -147,17 +156,24 @@ https://www.idivecayman.com/magic-roundabout]]></description>
         </Point>
       </Placemark>
       <Placemark>
+        <name>Chankanaab Reef</name>
+        <description></description>
+        <Point>
+          <coordinates>-86.817398,20.439234</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Chankanaab Shallows</name>
         <description></description>
         <Point>
-          <coordinates>0.000000,0.000000</coordinates>
+          <coordinates>-86.817400,20.439230</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Columbia Deep</name>
-        <description></description>
+        <description><![CDATA[https://www.wannadive.net/spot/Central_America/Mexico/Yucatan/Cozumel_Isalnd/Columbia_Deep/index.html]]></description>
         <Point>
-          <coordinates>0.000000,0.000000</coordinates>
+          <coordinates>-87.025283,20.312217</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -178,56 +194,56 @@ https://www.idivecayman.com/magic-roundabout]]></description>
         <name>House Reef</name>
         <description><![CDATA[Hotel Cozumel & Resort]]></description>
         <Point>
-          <coordinates>0.000000,0.000000</coordinates>
+          <coordinates>-86.961892,20.499033</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>La Francesca</name>
-        <description></description>
+        <description><![CDATA[https://www.wannadive.net/spot/Central_America/Mexico/Yucatan/Cozumel_Isalnd/La_Francesa/index.html]]></description>
         <Point>
-          <coordinates>0.000000,0.000000</coordinates>
+          <coordinates>-87.027683,20.350350</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Las Palmas</name>
         <description></description>
         <Point>
-          <coordinates>0.000000,0.000000</coordinates>
+          <coordinates>-86.990533,20.458033</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Palancar Caves</name>
-        <description></description>
+        <description><![CDATA[https://www.wannadive.net/spot/Central_America/Mexico/Yucatan/Cozumel_Isalnd/Palancar_Caves/index.html]]></description>
         <Point>
-          <coordinates>0.000000,0.000000</coordinates>
+          <coordinates>-87.030200,20.326850</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Palancar Gardens</name>
-        <description></description>
+        <description><![CDATA[https://www.wannadive.net/spot/Central_America/Mexico/Yucatan/Cozumel_Isalnd/Palancar_Gardens/index.html]]></description>
         <Point>
-          <coordinates>-87.026657,20.335696</coordinates>
+          <coordinates>-87.027433,20.336100</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Palancar Horseshoe</name>
-        <description></description>
+        <description><![CDATA[https://www.wannadive.net/spot/Central_America/Mexico/Yucatan/Cozumel_Isalnd/Palancar_Horseshoe/index.html]]></description>
         <Point>
-          <coordinates>0.000000,0.000000</coordinates>
+          <coordinates>-87.032667,20.326600</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Paradise Reef</name>
+        <name>Paraíso Bajo Reef (Paradise Reef)</name>
         <description></description>
         <Point>
-          <coordinates>0.000000,0.000000</coordinates>
+          <coordinates>-86.981467,20.471883</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Paso del Cedral</name>
-        <description></description>
+        <description><![CDATA[https://www.wannadive.net/spot/Central_America/Mexico/Yucatan/Cozumel_Isalnd/Paso_del_Cedral/index.html]]></description>
         <Point>
-          <coordinates>0.000000,0.000000</coordinates>
+          <coordinates>-87.028267,20.354283</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -238,31 +254,45 @@ https://www.idivecayman.com/magic-roundabout]]></description>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Santa Rosa Wall</name>
-        <description></description>
+        <name>San Clemente Reef</name>
+        <description><![CDATA[https://www.wannadive.net/spot/Central_America/Mexico/Yucatan/Cozumel_Isalnd/San_Clemente_reef/index.html]]></description>
         <Point>
-          <coordinates>0.000000,0.000000</coordinates>
+          <coordinates>-87.026283,20.381700</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Tormentos</name>
-        <description></description>
+        <name>San Francisco Wall</name>
+        <description><![CDATA[https://www.wannadive.net/spot/Central_America/Mexico/Yucatan/Cozumel_Isalnd/San_Francisco/index.html]]></description>
         <Point>
-          <coordinates>0.000000,0.000000</coordinates>
+          <coordinates>-87.026767,20.370733</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santa Rosa Wall</name>
+        <description><![CDATA[https://www.wannadive.net/spot/Central_America/Mexico/Yucatan/Cozumel_Isalnd/Santa_Rosa_Wall/index.html]]></description>
+        <Point>
+          <coordinates>-87.027350,20.365517</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tormentos Reef</name>
+        <description><![CDATA[https://www.wannadive.net/spot/Central_America/Mexico/Yucatan/Cozumel_Isalnd/Tormentos_Reef/index.html]]></description>
+        <Point>
+          <coordinates>-87.004650,20.440750</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Villa Blanca</name>
-        <description></description>
+        <description><![CDATA[https://www.wannadive.net/spot/Central_America/Mexico/Yucatan/Cozumel_Isalnd/Villa_Blanca/index.html]]></description>
         <Point>
           <coordinates>-86.816258,20.439485</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Yucabo</name>
-        <description></description>
+        <name>Yucab Reef</name>
+        <description><![CDATA[https://www.wannadive.net/spot/Central_America/Mexico/Yucatan/Cozumel_Isalnd/Yucab_Reef/index.html]]></description>
         <Point>
-          <coordinates>0.000000,0.000000</coordinates>
+          <coordinates>-87.021200,20.405500</coordinates>
         </Point>
       </Placemark>
       <Placemark>
