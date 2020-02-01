@@ -296,10 +296,59 @@ https://www.idivecayman.com/magic-roundabout]]></description>
         </Point>
       </Placemark>
       <Placemark>
+        <name>Chapel Point</name>
+        <description></description>
+        <Point>
+          <coordinates>123.266323,9.077161</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Katipanan East</name>
+        <description></description>
+        <Point>
+          <coordinates>123.266273,9.075244</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Katipanan West</name>
+        <description></description>
+        <Point>
+          <coordinates>123.266552,9.073131</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Largahan</name>
+        <description></description>
+        <Point>
+          <coordinates>123.266829,9.081377</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rock Point West</name>
+        <description></description>
+        <Point>
+          <coordinates>123.267271,9.071995</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Atlantis House Reef</name>
         <description></description>
         <Point>
           <coordinates>123.278627,9.200714</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Behura</name>
+        <description></description>
+        <Point>
+          <coordinates>123.249117,9.167619</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Black Water</name>
+        <description></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -317,7 +366,14 @@ https://www.sea-explorers.com/dauin/dumaguete-dive-sites/]]></description>
 
 https://www.sea-explorers.com/dauin/dumaguete-dive-sites/]]></description>
         <Point>
-          <coordinates>123.265256,9.185861</coordinates>
+          <coordinates>123.266304,9.186366</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punta</name>
+        <description></description>
+        <Point>
+          <coordinates>123.270955,9.187040</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -327,6 +383,48 @@ https://www.sea-explorers.com/dauin/dumaguete-dive-sites/]]></description>
 https://www.sea-explorers.com/dauin/dumaguete-dive-sites/]]></description>
         <Point>
           <coordinates>123.271606,9.190911</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pyramid</name>
+        <description></description>
+        <Point>
+          <coordinates>123.251924,9.171928</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Miguel North</name>
+        <description></description>
+        <Point>
+          <coordinates>123.278709,9.199963</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Miguel South</name>
+        <description></description>
+        <Point>
+          <coordinates>123.277884,9.200521</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Talisay Point</name>
+        <description></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thalatta</name>
+        <description></description>
+        <Point>
+          <coordinates>123.218009,9.123666</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>VIP</name>
+        <description></description>
+        <Point>
+          <coordinates>123.268798,9.195037</coordinates>
         </Point>
       </Placemark>
       <Placemark>
